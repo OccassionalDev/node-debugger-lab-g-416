@@ -12,7 +12,6 @@ module.exports = function() {
     } else {
       customerAccount.type = 'savings'
     }
-    debugger;
   }
 
   var signupBonus = 250,
